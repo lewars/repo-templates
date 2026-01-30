@@ -1,0 +1,28 @@
+#+TITLE: How-To: [Task Name]
+#+AUTHOR: Alistair Lewars
+#+FILETAGS: :procedure:fedora:devops:mlops:softwareeng
+
+* Overview
+Briefly describe what this procedure achieves and why it is necessary.
+
+* Prerequisites
+- [ ] Root/Sudo access on [System]
+- [ ] Required packages: ~ansible~, ~podman~
+- [ ] Network connectivity to [Endpoint]
+
+* Step-by-Step Instructions
+1. *Initial Setup*
+   #+BEGIN_SRC shell
+   sudo dnf update -y
+   #+END_SRC
+
+2. *Configuration*
+   Describe the "why" behind the configuration here.
+
+* Verification
+How do you know it worked?
+- Run ~systemctl status service~
+- Check logs at ~/var/log/...~
+
+* Troubleshooting
+Common pitfalls for this specific procedure.
