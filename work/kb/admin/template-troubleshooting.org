@@ -1,0 +1,20 @@
+#+TITLE: Troubleshooting: [Error Message/Issue]
+#+DATE: [%<%Y-%m-%d %a>]
+#+FILETAGS: :incident:debug:
+
+* Symptoms
+- What is broken?
+- Include specific error codes or stack traces here.
+
+* Environment
+- Host: [e.g., 08c57bfa6f8e.domain]
+- Version: [e.g., Kernel 6.x]
+
+* Resolution
+** Investigation
+Describe the steps taken to find the root cause.
+** The Fix
+State the command or configuration change that resolved the issue.
+
+* Root Cause Analysis (RCA)
+Why did this happen, and how do we prevent it from happening again?
