@@ -1,0 +1,23 @@
+#+TITLE: Design Doc: [Project Name]
+#+STATUS: Draft / Proposed / Accepted
+#+FILETAGS: :architecture:design:
+
+* Context & Problem Statement
+What are we trying to solve? What is the current state?
+
+* Proposed Solution
+High-level overview of the new architecture.
+
+* Technical Details
+** Components
+- *Compute*: [e.g., GCP Compute Eng Cluster]
+- *Storage*: [e.g., S3 / Local RAID]
+** Data Flow
+Describe how data moves through the system.
+
+* Alternatives Considered
+Why not use [Alternative A]?
+
+* Implementation Plan
+- [ ] Phase 1: MVP
+- [ ] Phase 2: Scaling
